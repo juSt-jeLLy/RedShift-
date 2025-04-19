@@ -6,7 +6,7 @@ export default function Starters(): JSX.Element {
     <section className="mx-auto" id="starters">
       <header className="text-center">
         <p className="text-white/70">Starter kits</p>
-        <h2 className="text-3xl font-bold">Dive into these starters</h2>
+        <h2 className="text-3xl font-bold">Dive </h2>
       </header>
       <div className="container mx-auto my-12 grid grid-cols-1 gap-6 md:grid-cols-2 max-w-3xl">
         {starters.map((starter) => (
